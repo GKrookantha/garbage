@@ -1,0 +1,74 @@
+.logout
+{
+    width: 100%;
+    height: auto;
+    margin: 0px auto;
+    border: 0px solid #B0C4DE;
+    background: white;
+}
+.content
+{
+    width: 30%;
+    height: auto;
+    margin: 0px auto;
+    padding: 10px;
+    border: 1px solid #B0C4DE;
+    background: white;
+    border-radius: 10px 10px 10px 10px;
+}
+
+.input-group
+{
+    margin: 10px 0px 10px 0px;
+}
+.input-group label
+{
+    display: block;
+    text-align: left;
+    font-family: Arial;
+    font-size: 16px;
+    margin: 3px;
+}
+.input-group input
+{
+    height: 30px;
+    width: 93%;
+    padding: 5px 10px;
+    font-family: Arial;
+    font-size: 16px;
+    border-radius: 5px;
+    border: 1px solid gray;
+}
+
+.input-group select
+{
+    height: 42px;
+    width: 98.5%;
+    padding: 5px 10px;
+    font-family: Arial;
+    font-size: 16px;
+    border-radius: 5px;
+    border: 1px solid gray;
+}
+
+.btn {
+    padding: 10px;
+    width: 150px;
+    height: 40px;
+    font-family: Arial;
+    font-size: 15px;
+    color: white;
+    background:lightseagreen;
+    border: none;
+    border-radius: 5px;
+}
+.error {
+    width: 92%;
+    margin: 0px auto;
+    padding: 10px;
+    border: 1px solid #c10d0a;
+    color: #c10d0a;
+    background: #f2dede;
+    border-radius: 5px;
+    text-align: left;
+}

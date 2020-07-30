@@ -1,0 +1,22 @@
+.main-division
+{
+    height: auto;
+    width: 100%;
+    alignment: center;
+    font-family: Arial;
+}
+.main-division h2
+{
+    color: goldenrod;
+    font-size: 22px;
+}
+.main-division p
+{
+    text-align: justify;
+    color: burlywood;
+    font-size: 16px;
+}
+.tbl
+{
+    border:3px solid lightseagreen;;
+}

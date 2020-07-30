@@ -1,0 +1,74 @@
+body
+{
+    background-color:darkslategray;
+    backface-visibility:hidden;
+    background-position:center;
+}
+
+.MenuBar ul
+{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #030E1C;
+    padding-left:10px;
+    padding-right:10px;
+}
+
+.MenuBar li
+{
+    float: left;
+    font-family:Arial;
+    font-size:16px;
+}
+.MenuBar li a
+{
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.MenuBar li a:hover
+{
+    background-color: #FFAE0F;
+    color:black;
+}
+
+#menu1
+{
+    width: 86%;
+    height: 49px;
+    background-color: #0094ff;
+    float:left;
+}
+
+#menu2
+{
+    width: 14%;
+    height: 49px;
+    background-color: #0094ff;
+    float:left;
+}
+
+.HeadingCMC
+{
+    align-content: center;
+    width: auto;
+    height: auto;
+    padding-bottom:0px;
+}
+
+#imagehead
+{
+    align-content: center;
+    width: 100%;
+    height: auto;
+}
+.MainContent
+{
+    height:auto;
+    width:auto;
+}
